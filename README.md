@@ -1,4 +1,6 @@
 # Decoder-ring-project
+![Ceasar Logo](https://www.istockphoto.com/photo/cipher-secret-messages-keywords-and-puzzles-concept-gm915391614-251927622)
+
 ## Project testing requirements:
 Writing a series of unit tests using Mocha and Chai
 Using different expect() methods to test your code
