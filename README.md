@@ -1,8 +1,8 @@
 # Decoder-ring-project
-Project testing requirements:
+# Project testing requirements:
 Writing a series of unit tests using Mocha and Chai
 Using different expect() methods to test your code
-Project functionality requirements:
+# Project functionality requirements:
 For the Caesar shift (example: caesar("Zebra Magazine", 3) => "cheud pdjdclqh"), the tests that you write should test that the following is true:
 It returns false if the shift value is equal to 0, less than -25, greater than 25, or not present.
 It ignores capital letters. (For example, the results of A Message and a message should be the same.)
