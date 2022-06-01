@@ -1,5 +1,5 @@
 # Decoder-ring-project
-![cryptography](https://en.wikipedia.org/wiki/Cryptography#/media/File:16th_century_French_cypher_machine_in_the_shape_of_a_book_with_arms_of_Henri_II.jpg)  
+![cryptography](https://upload.wikimedia.org/wikipedia/commons/4/4a/Caesar_cipher_left_shift_of_3.svg)  
 
 
 ## Project testing requirements:
