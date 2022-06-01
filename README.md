@@ -1,5 +1,5 @@
 # Decoder-ring-project
-![Ceasar Logo](https://en.wikipedia.org/wiki/Cryptography#/media/File:16th_century_French_cypher_machine_in_the_shape_of_a_book_with_arms_of_Henri_II.jpg)  
+![cryptography](https://en.wikipedia.org/wiki/Cryptography#/media/File:16th_century_French_cypher_machine_in_the_shape_of_a_book_with_arms_of_Henri_II.jpg)  
 
 
 ## Project testing requirements:
